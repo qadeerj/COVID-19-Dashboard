@@ -1,2 +1,2 @@
-# COVID-19-Dashboard
-I have Developed this Project using Power Bi
+COVID-19 Dashboard Using Power BI
+Created an interactive dashboard utilizing a COVID-19 dataset to visualize key metrics such as case numbers, recovery rates, and vaccination progress. The dashboard features dynamic charts and maps, allowing users to explore data trends over time and across regions. This project improved my skills in data visualization and analytics using Power BI, enabling effective communication of critical health information.
